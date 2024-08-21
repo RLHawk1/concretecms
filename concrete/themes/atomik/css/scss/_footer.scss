@@ -30,17 +30,12 @@ div.theme-atomik {
       margin-bottom: 2rem;
       a {
         color: $dark;
-      }
-      svg {
-        height: 20px;
-        width: 20px;
-        max-height: 20px;
-        max-width: 20px;
-        fill: $dark;
-      }
-      i {
         font-size: 27px;
       }
+      svg {
+        fill: $dark;
+      }
+
     }
 
 
